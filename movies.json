@@ -1,0 +1,112 @@
+[{
+    "name": "RRR",
+    "imdb": 7.8,
+    "year": "2022",
+    "sposter": "Posters/RRR.jpg",
+    "bposter": "Posters/RRR2.webp",
+    "genre": "Action",
+    "type": "Movie",
+    "url": "Rrr.html",
+    "trailer":"Trailers/RRR.mp4"
+    },{        
+   "name": "Squid Games",
+   "imdb": 8,
+   "year": "2021",
+   "sposter": "Posters/Squid Games.jpg",
+   "bposter": "Posters/Squid Games2.jpeg",
+   "genre": "Thriller",
+   "type": "Series",
+   "url": "Squid Games.html",
+   "trailer":"Trailers/Squid Games.mp4"
+    }, {
+    "name": "Spider-Man: Across the Spider-Verse",
+    "imdb":8.8 ,
+    "year": "2023",
+    "sposter": "Posters/SpiderMan.jpg",
+    "bposter": "Posters/Spiderman2.jpg",
+    "genre": "Action / Adventure",
+    "type": "Kids",
+    "url": "Spd.html",
+    "trailer":"Trailers/Spiderman.mp4"
+    },{
+        "name": "Brahmāstra: Part One - Shiva",
+        "imdb": 5.6,
+        "year": "2022",
+        "sposter": "Posters/Bramha.jpg",
+        "bposter": "Posters/Bramha2.webp",
+        "genre": " Action / Fantasy",
+        "type": "Movie",
+        "url": "Bramha.html",
+        "trailer":"Trailers/Bramhastra.mp4"
+    }, {
+    "name": "Joker",
+    "imdb": 8.4,
+    "year": "2019",
+    "sposter": "Posters/Joker.jpeg",
+    "bposter": "Posters/Joker2.webp",
+    "genre": "Crime / Thriller / Drama",
+    "type": "Movie",
+    "url": "Joker.html",
+    "trailer":"Trailers/Joker.mp4"
+    }, {
+    "name": "All of Us Are Dead",
+    "imdb": 7.5,
+    "year": "2022",
+    "sposter": "Posters/All Of Us.jpg",
+    "bposter": "Posters/All Of Us2.jpeg",
+    "genre": "Horror",
+    "type": "Series",
+    "url": "AUAD.html",
+    "trailer":"Trailers/All of Us Are Dead.mp4"
+    }, {
+    "name": "Asur: Welcome to Your Dark Side",
+    "imdb": 8.5,
+    "year": "2020",
+    "sposter": "Posters/Asur.jpeg",
+    "bposter": "Posters/Asur2.jpeg",
+    "genre": "Psychological / Thriller ",
+    "type": "Series",
+    "url": "Asur.html",
+    "trailer":"Trailers/Asur.mp4"
+    }, {
+    "name": "Cinderella",
+    "imdb": 6.9,
+    "year": "2015",
+    "sposter": "Posters/Cinderella.jpeg",
+    "bposter": "Posters/Cinderella2.webp",
+    "genre": "Romance / Fantasy",
+    "type": "Kids",
+    "url": "Cinderella.html",
+    "trailer":"Trailers/Cinderella.mp4"
+    }, {
+    "name": "Toy Story",
+    "imdb": 7.7,
+    "year": "2019",
+    "sposter": "Posters/Toy Story.jpg",
+    "bposter": "Posters/Toy Story2.jpg",
+    "genre": "Family / Adventure",
+    "type": "Kids",
+    "url": "TS.html",
+    "trailer":"Trailers/Toy Story.mp4"
+    }, {
+    "name": "The Conjuring: The Devil Made Me Do It",
+    "imdb": 6.3,
+    "year": "2021",
+    "sposter": "Posters/The conjuring.jpg",
+    "bposter": "Posters/The Conjuring2.jpeg",
+    "genre": " Horror / Thriller",
+    "type": "Movie",
+    "url": "Conjur.html",
+    "trailer":"Trailers/The Conjuring.mp4"
+    },{
+        "name": "Avengers: Endgame",
+        "imdb":8.4 ,
+        "year": "2019",
+        "sposter": "Posters/Avengers.jpeg",
+        "bposter": "Posters/Avengers2.webp",
+        "genre": "Action / Sci-fi",
+        "type": "Kids",
+        "url": "Avng.html",
+        "trailer":"Trailers/Avengers.mp4"
+        }
+]
